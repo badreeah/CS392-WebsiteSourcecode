@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Log In &lsaquo; Programmer Destination &#8212; WordPress</title>
+	<meta name='robots' content='max-image-preview:large, noindex, noarchive' />
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel='stylesheet' id='dashicons-css' href='https://programmerdistination.lovestoblog.com/wp-includes/css/dashicons.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css' href='https://programmerdistination.lovestoblog.com/wp-includes/css/buttons.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css' href='https://programmerdistination.lovestoblog.com/wp-admin/css/forms.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css' href='https://programmerdistination.lovestoblog.com/wp-admin/css/l10n.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css' href='https://programmerdistination.lovestoblog.com/wp-admin/css/login.min.css?ver=6.4.1' type='text/css' media='all' />
+<style id='login-inline-css' type='text/css'>
+body.wp-adminify-login-customizer p#nav a:nth-child(1){display:none;}body.wp-adminify-login-customizer p#nav{color:transparent !important;}body.wp-adminify-login-customizer p#nav a:nth-child(2){display:none;}body.wp-adminify-login-customizer p#nav{color:transparent !important;}.wp-adminify-badge{overflow:hidden;position:absolute;bottom:15px;display:none;right:15px;z-index:2;}.wp-adminify-badge.left{left:15px;right:inherit;}.wp-adminify-badge.left-center{right:inherit;top:48.25%;bottom:inherit;transform:translateY(-50%);}.wp-adminify-badge.left-top{right:inherit;left:15px;top:15px;}.wp-adminify-badge.left-bottom{right:inherit;left:20px;}.wp-adminify-badge.center-top{right:inherit;left:50%;top:0;transform:translateX(-50%);}.wp-adminify-badge.center-center{top:50%;left:50%;bottom:inherit;right:inherit;transform:translate(-50%,-50%);}.wp-adminify-badge.center-bottom{right:inherit;left:50%;bottom:15px;transform:translateX(-50%);}.wp-adminify-badge.right-top{top:15px;}.wp-adminify-badge.right-center{top:50%;bottom:inherit;transform:translateY(-50%);}.wp-adminify-badge.right{right:15px;}.wp-adminify-badge.middle{left:15px;right:15px;margin:0 auto;}.wp-adminify-badge.top-right{top:15px;right:15px;bottom:inherit;}@media screen and (min-width:600px){.wp-adminify-badge{display:block;}}@media screen and (max-height:600px){.wp-adminify-badge{display:none;}}.wp-adminify-badge.is-hidden .wp-adminify-badge__inner{opacity:0;transform:scale(0);transition:transform 500ms cubic-bezier(0.694,0.0482,0.335,1),opacity 200ms cubic-bezier(0.694,0.0482,0.335,1);}.wp-adminify-badge__inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;position:relative;padding:8px 15px;transition:transform 500ms cubic-bezier(0.694,0.0482,0.335,1),opacity 200ms cubic-bezier(0.694,0.0482,0.335,1) 300ms;}.wp-adminify-badge__text{position:relative;padding-right:7px;line-height:1;font-size:16px;}.wp-adminify-badge .icon{width:164px;height:35px;}.wp-adminify-badge__link{position:absolute;top:0;left:0;right:0;bottom:0;height:100%;width:100%;z-index:9;}.wp-adminify-badge__text{color:;}
+</style>
+<link rel='stylesheet' id='user-registration-css-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-adminify-vegas-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/adminify/assets/vendors/vegas/vegas.min.css?ver=6.4.1' type='text/css' media='all' />
+                <meta name="viewport" content="width=device-width" />
+    
+<style class="wp-adminify-login-customizer-style">
+	
+	/* Logo: None */
+	body.wp-adminify-login-customizer:not(.wp-adminify-text-logo):not(.wp-adminify-image-logo) h1 {
+		display: none;
+	}
+
+	body.wp-adminify-login-customizer:not(.wp-adminify-text-logo):not(.wp-adminify-image-logo) #login {
+		padding-top: 0px;
+	}
+
+	/* Logo: Text Only */
+	body.wp-adminify-login-customizer.wp-adminify-text-logo:not(.wp-adminify-image-logo) h1 a {
+		background: none !important;
+		text-indent: unset;
+		width: auto !important;
+		height: auto !important;
+	}
+
+	/* Logo: Image Only */
+	body.wp-adminify-login-customizer.wp-adminify-image-logo:not(.wp-adminify-text-logo) #login h1 a {
+		background-size: contain;
+	}
+
+	/* Logo: Image &amp; Text */
+	body.wp-adminify-login-customizer.wp-adminify-text-logo.wp-adminify-image-logo #login h1 {
+		overflow: hidden;
+		width: 350px;
+		max-width: 80%;
+		margin: 0 auto;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-text-logo.wp-adminify-image-logo #login h1 a {
+		width: 100%;
+		height: auto;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		-webkit-box-align: end;
+		-webkit-align-items: flex-end;
+		-ms-flex-align: end;
+		align-items: flex-end;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		margin-bottom: 0px;
+		background-size: 0px;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-text-logo.wp-adminify-image-logo #login h1 a:before {
+		content: "";
+		background: inherit;
+		background-size: contain;
+		background-position: center;
+		display: block;
+		width: 100%;
+		height: 84px;
+		margin-bottom: 16px;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-text-logo #login h1 a {
+		text-indent: unset;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-general-actions {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		z-index: 100;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-preview-event {
+		cursor: pointer;
+		background-color: #008ec2;
+		-webkit-border-radius: 100%;
+		border-radius: 100%;
+		color: #fff;
+		width: 30px;
+		height: 30px;
+		text-align: center;
+		border: 2px solid #fff;
+		-webkit-box-shadow: 0 2px 1px rgba(46, 68, 83, .15);
+		box-shadow: 0 2px 1px rgba(46, 68, 83, .15);
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-preview-event&gt;span {
+		margin-top: 5px;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-general-actions&gt;.wp-adminify-preview-event {
+		display: inline-block;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-form-container {
+		width: 100%;
+		position: relative;
+	}
+
+	body.wp-adminify-login-customizer #login {
+		padding: 8% 0 0;
+		position: relative;
+		z-index: 2;
+	}
+
+	body.wp-adminify-login-customizer #login h1 a {
+		position: relative;
+		overflow: visible;
+	}
+
+	body.wp-adminify-login-customizer #login h1 a .wp-adminify-preview-event {
+		position: absolute;
+		left: -15px;
+		top: -15px;
+	}
+
+	body.wp-adminify-login-customizer .customize-partial--loginform {
+		top: 0 !important;
+		left: -10px !important;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-edit-loginform .customize-partial--loginform {
+		opacity: 0 !important;
+		visibility: hidden !important;
+	}
+
+	body.wp-adminify-login-customizer #login #nav {
+		left: 0;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-background .login-overlay {
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-container {
+		position: relative;
+		height: 100vh;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		width: 100%;
+		overflow: hidden;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container:before {
+		content: "";
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container:after {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container:before,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container:after,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-form-container {
+		height: 100%;
+		width: 50%;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top .wp-adminify-container:before,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top .wp-adminify-container:after,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-bottom .wp-adminify-container:before,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-bottom .wp-adminify-container:after,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top .wp-adminify-form-container,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-bottom .wp-adminify-form-container {
+		height: 50%;
+		width: 100%;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-container:before,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-container:after,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-right .wp-adminify-container:before,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-right .wp-adminify-container:after,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-form-container,
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-right .wp-adminify-form-container {
+		height: 100%;
+		width: 50%;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-container {
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: reverse;
+		-webkit-flex-direction: row-reverse;
+		-ms-flex-direction: row-reverse;
+		flex-direction: row-reverse;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-container:after {
+		right: 0;
+		left: auto;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top .wp-adminify-container {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: reverse;
+		-webkit-flex-direction: column-reverse;
+		-ms-flex-direction: column-reverse;
+		flex-direction: column-reverse;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top .wp-adminify-container:after {
+		bottom: 0;
+		top: auto;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-top #login h1 {
+		top: 75%;
+		left: 50%
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-bottom #login h1 {
+		top: 25%;
+		left: 50%
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left #login h1 {
+		top: 50%;
+		left: 75%
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-right #login h1 {
+		top: 50%;
+		left: 25%
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-form-container {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		overflow: hidden;
+	}
+
+	body.wp-adminify-login-customizer:not(.wp-adminify-half-screen) .wp-adminify-container .wp-adminify-form-container {
+		width: 100%;
+		min-height: 100vh
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container {
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-form-container {
+		z-index: 0;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-horizontal-align-left_center .wp-adminify-form-container {
+		-webkit-box-pack: start;
+		-webkit-justify-content: flex-start;
+		-ms-flex-pack: start;
+		justify-content: flex-start
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-horizontal-align-right_center .wp-adminify-form-container {
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		-ms-flex-pack: end;
+		justify-content: flex-end
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-vertical-align-center_top .wp-adminify-form-container {
+		-webkit-box-align: start;
+		-webkit-align-items: flex-start;
+		-ms-flex-align: start;
+		align-items: flex-start
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-vertical-align-center_bottom .wp-adminify-form-container {
+		-webkit-box-align: end;
+		-webkit-align-items: flex-end;
+		-ms-flex-align: end;
+		align-items: flex-end
+	}
+
+	body.wp-adminify-login-customizer.ml-login-horizontal-align-1 .wp-adminify-form-container {
+		-webkit-box-pack: start;
+		-webkit-justify-content: flex-start;
+		-ms-flex-pack: start;
+		justify-content: flex-start
+	}
+
+	body.wp-adminify-login-customizer.ml-login-horizontal-align-3 .wp-adminify-form-container {
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		-ms-flex-pack: end;
+		justify-content: flex-end
+	}
+
+	@media only screen and (max-width: 768px) {
+		body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container&gt;.wp-adminify-form-container {
+			width: 50% !important;
+		}
+	}
+
+	@media only screen and (max-width: 577px) {
+		body.wp-adminify-login-customizer.wp-adminify-half-screen .wp-adminify-container&gt;.wp-adminify-form-container {
+			width: 100% !important;
+		}
+
+		body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-left .wp-adminify-container .wp-adminify-form-container,
+		body.wp-adminify-login-customizer.wp-adminify-half-screen.jltwp-adminify-login-right .wp-adminify-container .wp-adminify-form-container {
+			width: 100%;
+		}
+	}
+
+	/* Skew */
+	body.wp-adminify-login-customizer .wp-adminify-form-container:after {
+		content: '';
+		z-index: -1;
+		top: 0px;
+		left: -100%;
+		width: 200%;
+		height: 200%;
+		position: absolute;
+		-webkit-transform-origin: center right;
+		-ms-transform-origin: center right;
+		transform-origin: center right;
+		display: none;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-fullwidth .wp-adminify-form-container:after {
+		display: block;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-fullwidth.jltwp-adminify-login-right .wp-adminify-form-container:after {
+		left: inherit;
+		right: -100%;
+	}
+
+	body.wp-adminify-login-customizer.wp-adminify-fullwidth.jltwp-adminify-login-top .wp-adminify-form-container:after {
+		top: inherit;
+		bottom: 0;
+	}
+
+	body.wp-adminify-login-customizer .wp-adminify-background-wrapper {
+		overflow: hidden;
+	}
+
+	body.wp-adminify-login-customizer .login-background,
+	body.wp-adminify-login-customizer .login-background:after,
+	body.wp-adminify-login-customizer .login-overlay,
+	body.wp-adminify-login-customizer .wp-adminify-background-wrapper {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -1;
+	}
+
+	body.wp-adminify-login-customizer .login-background:after {
+		content: '';
+		z-index: 1;
+	}
+
+	#login #backtoblog,
+	#login #nav {
+		text-align: center;
+	}
+
+
+	</style>
+<style media="screen" class="wp-adminify-style-wp">
+    body.wp-adminify-login-customizer .login-background {
+        background: linear-gradient(246.04deg, #0347FF 0%, #8348FF 30.21%, #AB59C6 64.06%, #E089FF 100%);
+    }
+
+    body.wp-adminify-login-customizer #login h1 a {
+        color: #fff;
+    }
+
+    body.wp-adminify-login-customizer.wp-adminify-image-logo:not(.wp-adminify-text-logo) #login h1 a,
+    body.wp-adminify-login-customizer #login h1 a:before {
+        filter: brightness(0) invert(1);
+    }
+
+    body.wp-adminify-login-customizer #login h1 a.wp-adminify-logo-login-link:focus {
+        border: 0;
+        box-shadow: none;
+        outline: 0;
+    }
+
+    body.wp-adminify-login-customizer #loginform,
+    body.wp-adminify-login-customizer #registerform,
+    body.wp-adminify-login-customizer #lostpasswordform {
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 0;
+        border-radius: 8px;
+        box-shadow: 0px 2px 54px rgba(20, 20, 42, 0.1);
+        padding-bottom: 35px;
+    }
+
+    body.wp-adminify-login-customizer #loginform label,
+    body.wp-adminify-login-customizer #registerform label,
+    body.wp-adminify-login-customizer #lostpasswordform label {
+        color: #fff;
+    }
+
+    body.wp-adminify-login-customizer #loginform input,
+    body.wp-adminify-login-customizer #registerform input,
+    body.wp-adminify-login-customizer #lostpasswordform input,
+    body.wp-adminify-login-customizer #loginform textarea,
+    body.wp-adminify-login-customizer #registerform textarea,
+    body.wp-adminify-login-customizer #lostpasswordform textarea,
+    body.wp-adminify-login-customizer #loginform select,
+    body.wp-adminify-login-customizer #registerform select,
+    body.wp-adminify-login-customizer #lostpasswordform select {
+        background: #F1F1F3;
+        border: 0;
+        border-radius: 6px;
+        box-shadow: none;
+        color: #4E4B66;
+        font-size: 14px;
+        line-height: 16px;
+        height: 36px;
+    }
+
+    body.wp-adminify-login-customizer #loginform textarea,
+    body.wp-adminify-login-customizer #registerform textarea,
+    body.wp-adminify-login-customizer #lostpasswordform textarea {
+        height: auto;
+    }
+
+    body.wp-adminify-login-customizer #loginform input[type="submit"],
+    body.wp-adminify-login-customizer #registerform input[type="submit"],
+    body.wp-adminify-login-customizer #lostpasswordform input[type="submit"] {
+        background-color: #0347FF;
+        color: #fff;
+        padding: 0 15px;
+    }
+
+    body.wp-adminify-login-customizer #loginform input[type="checkbox"],
+    body.wp-adminify-login-customizer #registerform input[type="checkbox"],
+    body.wp-adminify-login-customizer #lostpasswordform input[type="checkbox"],
+    body.wp-adminify-login-customizer #loginform input[type="radio"],
+    body.wp-adminify-login-customizer #registerform input[type="radio"],
+    body.wp-adminify-login-customizer #lostpasswordform input[type="radio"] {
+        height: 14px;
+        width: 14px;
+        border-radius: 4px;
+        min-width: inherit;
+    }
+
+    body.wp-adminify-login-customizer #loginform .button.wp-hide-pw {
+        background-color: transparent;
+        border: 0;
+        box-shadow: none;
+        color: #4E4B66;
+        font-size: 16px;
+        height: 36px;
+        margin-top: 0;
+    }
+
+    body.wp-adminify-login-customizer #login #nav a {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    body.wp-adminify-login-customizer #login #backtoblog a {
+        background: #FFF;
+        box-shadow: 0px 2px 35px rgba(78, 75, 102, 0.05);
+        border-radius: 6px;
+        color: #4E4B66;
+        display: inline-block;
+        font-size: 13px;
+        line-height: 20px;
+        left: 30px;
+        top: 30px;
+        padding: 8px 10px;
+        position: fixed;
+    }
+
+    @media only screen and (max-width: 600px) {
+        body.wp-adminify-login-customizer .wp-adminify-container {
+            height: auto;
+        }
+        body.wp-adminify-login-customizer:not(.wp-adminify-half-screen):not(.wp-adminify-fullwidth) .wp-adminify-container .wp-adminify-form-container {
+            width: 100%;
+            padding: 20px;
+        }
+        #login {
+            max-width: 100%;
+        }
+        .login h1 {
+            margin-top: 40px;
+        }
+        .wp-adminify-form-container .columns.all-centered {
+            width: 100%;
+        }
+    }
+</style>
+<style id="wpadminify-customizer-custom-css">body.wp-adminify-login-customizer #loginform #wp-submit{background:rgba(64,0,124,0.69);color:#ffffff;}body.wp-adminify-login-customizer #loginform #wp-submit:hover{background:#8224e3;color:#ffffff;}</style>	<link href="//fonts.googleapis.com/css?family=Lato" rel='stylesheet'>
+	<style type="text/css">
+					body {
+			font-family: "Lato" !important;
+		}
+
+		.login input[type="submit"],
+		.login form .input,
+		.login input[type="text"] {
+							font-family: "Lato" !important;
+																																																		}
+	</style>
+	
+
+
+
+<div class="wp-adminify-badge 1 ">
+	<div class="wp-adminify-badge__inner">
+		<span class="wp-adminify-badge__text">Powered by</span>
+		<svg class="icon icon-wp-adminify" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 511.32 112.64">
+			<defs>
+				<style>
+					.cls-1 {
+						fill: #14142b;
+					}
+
+					.cls-2 {
+						fill: #0347ff;
+					}
+				</style>
+			</defs>
+			<g id="Layer_2" data-name="Layer 2">
+				<g id="Layer_2-2" data-name="Layer 2">
+					<path class="cls-1" d="M161.81,37.23a22.6,22.6,0,1,0,11.3,42.16v3H184.4V59.83A22.59,22.59,0,0,0,161.81,37.23Zm11.3,22.6v0a11.31,11.31,0,1,1-11.3-11.33,11.31,11.31,0,0,1,11.3,11.33Z" />
+					<path class="cls-1" d="M305.3,37.23a22.53,22.53,0,0,0-17,7.7,22.59,22.59,0,0,0-39.56,14.92V82.43H260V59.85a11.31,11.31,0,1,1,22.61,0V82.43h11.29v0H294V59.83a11.3,11.3,0,1,1,22.6,0V82.41h11.29V59.83A22.59,22.59,0,0,0,305.3,37.23Z" />
+					<path class="cls-1" d="M380.88,37.23a22.6,22.6,0,0,0-22.6,22.6V82.41h11.3V59.83a11.3,11.3,0,1,1,22.6,0V82.41h11.3V59.83A22.6,22.6,0,0,0,380.88,37.23Z" />
+					<path class="cls-1" d="M239.24,57.31V25.93h-11.3V40.26a22.61,22.61,0,1,0,0,39.13v3h11.3V57.31Zm-11.3,2.55a11.3,11.3,0,1,1,0-.07Z" />
+					<polygon class="cls-1" points="337.42 57.66 337.42 62.36 337.42 82.41 348.71 82.41 348.71 62.36 348.71 57.66 348.71 37.29 337.42 37.29 337.42 57.66" />
+					<rect class="cls-1" x="337.41" y="26" width="11.3" height="5.59" />
+					<polygon class="cls-1" points="413.06 57.59 413.06 62.3 413.06 82.35 424.36 82.35 424.36 62.3 424.36 57.59 424.36 37.23 413.06 37.23 413.06 57.59" />
+					<rect class="cls-1" x="413.06" y="25.94" width="11.3" height="5.59" />
+					<path class="cls-1" d="M439.61,38.48v10H434v11.3h5.66V82.41h11.3V59.82h5.64V48.52h-5.64V37.23h5.64V25.93h-5.64C444.67,25.93,439.61,31.55,439.61,38.48Z" />
+					<path class="cls-1" d="M511.32,37.23H500V54.17a11.3,11.3,0,1,1-22.6,0V37.23h-11.3V54.17A22.61,22.61,0,0,0,499.65,74a11.32,11.32,0,0,1-10.93,8.46,11.17,11.17,0,0,1-5.65-1.53V93a22.38,22.38,0,0,0,5.65.72,22.6,22.6,0,0,0,22.6-22.6V54.17h0Z" />
+					<path class="cls-2" d="M118,72.71,83.91,13.37a26.66,26.66,0,0,0-46.23,0L3.58,72.71A26.65,26.65,0,0,0,26.7,112.64H44.56a19.19,19.19,0,0,1-9.31-27.29l24.53-42.7a19.18,19.18,0,0,1,33.27,0l24.54,42.7a19,19,0,0,1,2.56,9.19A26.31,26.31,0,0,0,118,72.71Z" />
+					<path class="cls-2" d="M101.42,69a7.49,7.49,0,0,0-13,0L79.62,84.29a8.37,8.37,0,0,0,7.26,12.53H103a8.35,8.35,0,0,0,7.25-12.53Z" />
+				</g>
+			</g>
+		</svg>
+
+		<a class="wp-adminify-badge__link" href="https://wpadminify.com/" alt="Get WP Adminify today" target="_blank"></a>
+		<button class="wp-adminify-event-button customizer-event-overlay" data-wp-adminify-customizer-event="wp-adminify-edit-branding"></button>
+	</div>
+</div>
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+		</head>
+	<body class="login no-js login-action-login wp-core-ui  locale-en-us wp-adminify-badge-1 wp-adminify wp-adminify-login-customizer wp-adminify-text-logo adminify-slideshow">
+	<script type="text/javascript">
+/* <![CDATA[ */
+document.body.className = document.body.className.replace('no-js','js');
+/* ]]> */
+</script>
+
+	<div class="wp-adminify-container"><div class="wp-adminify-form-container">            <div class="wp-adminify-background">
+                <div class="wp-adminify-background-wrapper">
+                    <div class="login-background"></div>
+                </div>
+            </div>
+            <div class="columns all-centered">
+            	<div id="login">
+		<h1><a href="https://wordpress.org/">Programmer Destination</a></h1>
+	
+		<form name="loginform" id="loginform" action="https://programmerdistination.lovestoblog.com/wp-login.php" method="post">
+			<p>
+				<label for="user_login">Username or Email Address</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username" required="required" />
+			</p>
+
+			<div class="user-pass-wrap">
+				<label for="user_pass">Password</label>
+				<div class="wp-pwd">
+					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20" autocomplete="current-password" spellcheck="false" required="required" />
+					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Show password">
+						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+					</button>
+				</div>
+			</div>
+						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+									<input type="hidden" name="redirect_to" value="https://programmerdistination.lovestoblog.com/wp-admin/?i=1" />
+									<input type="hidden" name="testcookie" value="1" />
+			</p>
+		</form>
+
+					<p id="nav">
+				<a class="wp-login-register" href="https://programmerdistination.lovestoblog.com/register/">Register</a> | <a class="wp-login-lost-password" href="https://programmerdistination.lovestoblog.com/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
+			<script type="text/javascript">
+/* <![CDATA[ */
+function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
+wp_attempt_focus();
+if ( typeof wpOnload === 'function' ) { wpOnload() }
+/* ]]> */
+</script>
+		<p id="backtoblog">
+			<a href="https://programmerdistination.lovestoblog.com/">&larr; Go to Programmer Destination</a>		</p>
+			</div>
+			</div></div></div></div></div><script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/adminify/assets/vendors/vegas/vegas.min.js?ver=3.2.0" id="wp-adminify-vegas-js"></script>
+<script type="text/javascript" id="zxcvbn-async-js-extra">
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/programmerdistination.lovestoblog.com\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="password-strength-meter-js-extra">
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-admin/js/password-strength-meter.min.js?ver=6.4.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/wp-util.min.js?ver=6.4.1" id="wp-util-js"></script>
+<script type="text/javascript" id="user-profile-js-extra">
+/* <![CDATA[ */
+var userProfileL10n = {"user_id":"0","nonce":"0772cbbe87"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-admin/js/user-profile.min.js?ver=6.4.1" id="user-profile-js"></script>
+	<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		</body>
+	</html>
