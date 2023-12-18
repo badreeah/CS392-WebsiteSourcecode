@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://programmerdistination.lovestoblog.com/xmlrpc.php">
+	<title>Instructor Registration &#8211; Programmer Destination</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//instant.page' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Programmer Destination &raquo; Feed" href="https://programmerdistination.lovestoblog.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Programmer Destination &raquo; Comments Feed" href="https://programmerdistination.lovestoblog.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/programmerdistination.lovestoblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://programmerdistination.lovestoblog.com/wp-includes/css/dashicons.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://programmerdistination.lovestoblog.com/wp-includes/css/admin-bar.min.css?ver=6.4.1' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+@media print { #wpadminbar { display:none; } }
+.admin-bar-position-bottom #wpadminbar{
+            top:auto;
+            bottom: 0;
+        }
+        .admin-bar-position-bottom  #wpadminbar .menupop .ab-sub-wrapper{
+            bottom: 32px;
+        }
+        @media all and (max-width:600px){
+            body.logged-in.admin-bar-position-bottom {
+                position: relative;
+            }
+        }
+</style>
+<link rel='stylesheet' id='sweetalert2-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/user-registration/assets/css/sweetalert2/sweetalert2.min.css?ver=10.16.7' type='text/css' media='all' />
+<link rel='stylesheet' id='user-registration-general-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='user-registration-smallscreen-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/user-registration/assets/css/user-registration-smallscreen.css?ver=3.1.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='user-registration-my-account-layout-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/user-registration/assets/css/my-account-layout.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.18.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://programmerdistination.lovestoblog.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' type='text/css' media="print" onload="this.media='all'" />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='bp-login-form-block-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/css/blocks/login-form.min.css?ver=11.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-member-block-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-members/css/blocks/member.min.css?ver=11.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-members-block-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-members/css/blocks/members.min.css?ver=11.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-dynamic-members-block-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-members/css/blocks/dynamic-members.min.css?ver=11.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-latest-activities-block-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-activity/css/blocks/latest-activities.min.css?ver=11.4.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--medium-blue: #175CFF;--wp--preset--color--deep-navyblue: #0A083B;--wp--preset--color--off-white: #F7F9FA;--wp--preset--color--bluish-dark-grey: #57586E;--wp--preset--color--light-grey: #EAF1F8;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--normal-plus: 18px;--wp--preset--font-size--medium-plus: 26px;--wp--preset--font-size--big: 32px;--wp--preset--font-size--huge: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bp-admin-bar-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css?ver=11.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-nouveau-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/css/buddypress.min.css?ver=11.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-icon-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/css/tutor-icon.min.css?ver=2.4.0' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='tutor-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/css/tutor.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-frontend-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/css/tutor-front.min.css?ver=2.4.0' type='text/css' media='all' />
+<style id='tutor-frontend-inline-css' type='text/css'>
+.mce-notification.mce-notification-error{display: none !important;}
+:root{--tutor-color-primary:#5a18c2;--tutor-color-primary-rgb:90, 24, 194;--tutor-color-primary-hover:#3f02a0;--tutor-color-primary-hover-rgb:63, 2, 160;--tutor-body-color:#212327;--tutor-body-color-rgb:33, 35, 39;--tutor-border-color:#cdcfd5;--tutor-border-color-rgb:205, 207, 213;--tutor-color-gray:#e3e5eb;--tutor-color-gray-rgb:227, 229, 235;}
+</style>
+<link rel='stylesheet' id='gfonts-css' href='https://fonts.googleapis.com/css2?family=Inter%3Awght%40100%3B300%3B400%3B500%3B700%3B900&#038;display=swap&#038;ver=1.1.10' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='gfonts-heading-css' href='https://fonts.googleapis.com/css2?family=Sora%3Awght%40100%3B300%3B400%3B500%3B700%3B900&#038;display=swap&#038;ver=1.1.10' type='text/css' media="print" onload="this.media='all'" />
+<link rel='stylesheet' id='main-css' href='https://programmerdistination.lovestoblog.com/wp-content/themes/tutorstarter/assets/dist/css/style.min.css?ver=1.1.10' type='text/css' media='all' />
+<style id='main-inline-css' type='text/css'>
+
+			:root {
+				--default-color: #ffffff;
+				--body-font: Inter;
+				--heading-font: Sora;
+				--link-color: #1950D1;
+				--body-bg-color: #ffffff;
+				--cart-color: #1950D1;
+				--cart-color-trans: #ffffff;
+				--cta-text-color: #1539e9;
+				--cta-text-color-trans: #ffffff;
+				--body-text-color: #57586E;
+				--cta-font-weight: 400;
+				--cta-font-transform: none;
+				--cta-font-lineheight: 1.2em;
+				--cta-font-lineheight-tablet: 1.2em;
+				--cta-font-lineheight-mobile: 1.2em;
+				--menu-link-color: #57586E;
+				--menu-link-color-trans: #ffffff;
+				--body-font-weight: 400;
+				--h1-font-weight: 700;
+				--h2-font-weight: 700;
+				--h3-font-weight: 700;
+				--h4-font-weight: 700;
+				--h5-font-weight: 700;
+				--h6-font-weight: 700;
+				--h1-text-transform: none;
+				--h2-text-transform: none;
+				--h3-text-transform: none;
+				--h4-text-transform: none;
+				--h5-text-transform: none;
+				--h6-text-transform: none;
+				--primary-menu-bg-color: #ffffff;
+				--sticky-menu-bg-color: rgba(4, 42, 132, 0.7);
+				--cta-background-color: #ffffff;
+				--cta-background-color-trans: rgba(25, 80, 209, 1);
+				--cta-border-color: #1539e9;
+				--cta-border-color-trans: #1950D1;
+				--cta-border-width: 1px;
+				--cta-border-radius: 50px;
+				--cta-font-size: 16px;
+				--header-font-weight: 400;
+				--header-font-transform: none;
+				--header-font-lineheight: 1.2em;
+				--header-font-lineheight-tablet: 1.2em;
+				--header-font-lineheight-mobile: 1.2em;
+				--body-text-transform: none;
+				--body-font-size: 16px;
+				--h1-font-size: 68px;
+				--h1-font-size-tablet: 48px;
+				--h1-font-size-mobile: 48px;
+				--h2-font-size: 48px;
+				--h2-font-size-tablet: 32px;
+				--h2-font-size-mobile: 32px;
+				--h3-font-size: 36px;
+				--h3-font-size-tablet: 28px;
+				--h3-font-size-mobile: 28px;
+				--h4-font-size: 26px;
+				--h4-font-size-tablet: 24px;
+				--h4-font-size-mobile: 24px;
+				--h5-font-size: 20px;
+				--h5-font-size-tablet: 18px;
+				--h5-font-size-mobile: 18px;
+				--h6-font-size: 18px;
+				--h6-font-size-tablet: 17px;
+				--h6-font-size-mobile: 17px;
+				--active-menu-color: #175cff;
+				--active-menu-color-trans: #ffffff;
+				--cta-font-size-tablet: 13px;
+				--cta-font-size-mobile: 13px;
+				--header-font-size: 16px;
+				--body-font-size-mobile: 13px;
+				--body-font-size-tablet: 13px;
+				--footer-bottom-bg-color: #1E1E2C;
+				--footer-widget-bg-color: #1E1E2C;
+				--header-font-size-tablet: 13px;
+				--header-font-size-mobile: 13px;
+				--footer-bottom-text-color: #ffffff;
+				--widget-title-font-weight: 700;
+				--widget-title-text-transform: none;
+				--footer-widget-text-color: #ffffff;
+				--body-font-lineheight: 1.7em;
+				--h1-font-lineheight: 2.5em;
+				--h1-font-lineheight-tablet: 2.5em;
+				--h1-font-lineheight-mobile: 2.5em;
+				--h2-font-lineheight: 2em;
+				--h2-font-lineheight-tablet: 2em;
+				--h2-font-lineheight-mobile: 2em;
+				--h3-font-lineheight: 1.8em;
+				--h3-font-lineheight-tablet: 1.8em;
+				--h3-font-lineheight-mobile: 1.8em;
+				--h4-font-lineheight: 1.7em;
+				--h4-font-lineheight-tablet: 1.7em;
+				--h4-font-lineheight-mobile: 1.7em;
+				--h5-font-lineheight: 1.6em;
+				--h5-font-lineheight-tablet: 1.6em;
+				--h5-font-lineheight-mobile: 1.6em;
+				--h6-font-lineheight: 1.5em;
+				--h6-font-lineheight-tablet: 1.5em;
+				--h6-font-lineheight-mobile: 1.5em;
+				--body-font-lineheight-tablet: 1.5em;
+				--body-font-lineheight-mobile: 1.5em;
+				--widget-title-font-size: 18px;
+				--widget-title-font-size-tablet: 16px;
+				--widget-title-font-size-mobile: 16px;
+				--widget-title-line-height: 1.78em;
+				--widget-title-line-height-tablet: 1.78em;
+				--widget-title-line-height-mobile: 1.78em;
+				--widget-text-font-weight: 400;
+				--widget-text-transform: none;
+				--widget-text-font-size: 16px;
+				--widget-text-font-size-tablet: 16px;
+				--widget-text-font-size-mobile: 16px;
+				--widget-text-line-height: 1.78em;
+				--widget-text-line-height-tablet: 1.78em;
+				--widget-text-line-height-mobile: 1.78em;
+			}
+        
+</style>
+<link rel='stylesheet' id='mycred-front-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/assets/css/mycred-front.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mycred-social-share-icons-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/assets/css/mycred-social-icons.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mycred-social-share-style-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/assets/css/mycred-social-share.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mycred-notifications-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/addons/notifications/assets/css/notify.css?ver=1.1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/font-awesome.min.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/slick.min.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/slick-theme.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tutor-elementor-css-css' href='https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/tutor-elementor.min.css?ver=2.1.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=11.4.0" id="bp-widget-members-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=11.4.0" id="bp-jquery-query-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=11.4.0" id="bp-jquery-cookie-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=11.4.0" id="bp-jquery-scroll-to-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/addons/badges/assets/js/front.js?ver=1.3" id="mycred-badge-front-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/js/slick.min.js?ver=2.1.3" id="etlms-slick-library-js"></script>
+<script type="text/javascript" id="tutor-elementor-js-js-extra">
+/* <![CDATA[ */
+var tutorElementorData = {"is_sidebar_sticky":""};
+/* ]]> */
+</script>
+<script type="text/javascript" id="tutor-elementor-js-js-before">
+/* <![CDATA[ */
+const etlmsUtility = {"is_editor_mode":false}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor-lms-elementor-addons/assets/js/tutor-elementor.js?ver=2.1.3" id="tutor-elementor-js-js"></script>
+<link rel="https://api.w.org/" href="https://programmerdistination.lovestoblog.com/wp-json/" /><link rel="alternate" type="application/json" href="https://programmerdistination.lovestoblog.com/wp-json/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://programmerdistination.lovestoblog.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<meta name="generator" content="TutorLMS 2.4.0" />
+<link rel="canonical" href="https://programmerdistination.lovestoblog.com/instructor-registration/" />
+<link rel='shortlink' href='https://programmerdistination.lovestoblog.com/?p=15' />
+<link rel="alternate" type="application/json+oembed" href="https://programmerdistination.lovestoblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprogrammerdistination.lovestoblog.com%2Finstructor-registration%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://programmerdistination.lovestoblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprogrammerdistination.lovestoblog.com%2Finstructor-registration%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'https://programmerdistination.lovestoblog.com/wp-admin/admin-ajax.php';</script>
+
+            <script>
+            (function (g, v, w, d, s, a, b) {
+            w['rumbleTalkMessageQueueName'] = g;
+            w[g]=w[g]||function(){(w[g].q = w[g].q || []).push(arguments)};
+            a = d.createElement(s);
+            b = d.getElementsByTagName(s)[0];
+            a.async = 1;
+            a.src = 'https://d1pfint8izqszg.cloudfront.net/api/' + v + '/sdk.js';
+            b.parentNode.insertBefore(a, b)
+            })('rtmq', 'v1.0.1', window, document, 'script');
+            </script>
+            <meta name="generator" content="Elementor 3.18.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+</head>
+
+<body class="bp-nouveau page-template-default page page-id-15 logged-in admin-bar no-customize-support tutor-lms user-registration-page wp-adminify-admin-bar admin-bar-position-top topbar-disabled elementor-default elementor-kit-12 no-js">
+<script type="text/javascript">
+/* <![CDATA[ */
+
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+/* ]]> */
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks navbar" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/about.php'>About WordPress</a></li><li id='wp-admin-bar-contribute'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/contribute.php'>Get Involved</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li><li id='wp-admin-bar-learn'><a class='ab-item' href='https://learn.wordpress.org/'>Learn WordPress</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/wp-admin/'>Programmer Destination</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/themes.php?page=custom-background'>Background</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/customize.php?url=https%3A%2F%2Fprogrammerdistination.lovestoblog.com%2Finstructor-registration%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">5</span><span class="screen-reader-text updates-available-text">5 updates available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=b1bdc1701b#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-courses'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/post-new.php?post_type=courses'>Course</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-wp-adminify-settings'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=wp-adminify-settings'>WP Adminify</a></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/post.php?post=15&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-user-registration-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=user-registration'>User Registration</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-registration-menu-default' class="ab-submenu"><li id='wp-admin-bar-user-registration-all-forms'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=user-registration'>All Forms</a></li><li id='wp-admin-bar-user-registration-add-new'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=add-new-registration'>Add New</a></li><li id='wp-admin-bar-user-registration-settings'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=user-registration-settings'>Settings</a></li><li id='wp-admin-bar-user-registration-docs'><a class='ab-item' href='https://docs.wpuserregistration.com/?utm_medium=admin-bar&#038;utm_source=WordPress&#038;utm_content=Documentation' target='_blank' rel='noopener noreferrer'>Documentation</a></li></ul></div></li></ul>				 
+										 
+				<ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://programmerdistination.lovestoblog.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/edit/'>Howdy <span class="display-name">Amal</span><img alt='' src='//www.gravatar.com/avatar/c11425ec5f35605be07b287c444841e9?s=26&#038;r=g&#038;d=mm' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/edit/'><img alt='' src='//www.gravatar.com/avatar/c11425ec5f35605be07b287c444841e9?s=64&#038;r=g&#038;d=mm' srcset='//www.gravatar.com/avatar/c11425ec5f35605be07b287c444841e9?s=64&#038;r=g&#038;d=mm 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>Amal</span><span class='username'>chuchu</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/edit/'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-login.php?action=logout&#038;_wpnonce=c95bcdb0ec'>Log Out</a></li></ul><ul id='wp-admin-bar-my-account-buddypress' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-mycred-account' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Points</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-mycred-account-default' class="ab-submenu"><li id='wp-admin-bar-mycred-account-balance-mycred-default'><div class="ab-item ab-empty-item">Points: 14</div></li><li id='wp-admin-bar-mycred-account-history-mycred-default'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/mycred-history/?show-ctype=mycred_default'>Points History</a></li></ul></div></li><li id='wp-admin-bar-my-account-activity' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/members/chuchu/activity/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Activity</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-activity-default' class="ab-submenu"><li id='wp-admin-bar-my-account-activity-personal'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/activity/just-me/'>Personal</a></li><li id='wp-admin-bar-my-account-activity-mentions'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/activity/mentions/'>Mentions</a></li><li id='wp-admin-bar-my-account-activity-favorites'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/activity/favorites/'>Favorites</a></li></ul></div></li><li id='wp-admin-bar-my-account-xprofile' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Profile</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-xprofile-default' class="ab-submenu"><li id='wp-admin-bar-my-account-xprofile-public'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/public/'>View</a></li><li id='wp-admin-bar-my-account-xprofile-edit'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/edit/'>Edit</a></li><li id='wp-admin-bar-my-account-xprofile-change-avatar'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/change-avatar/'>Change Profile Photo</a></li><li id='wp-admin-bar-my-account-xprofile-change-cover-image'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/profile/change-cover-image/'>Change Cover Image</a></li></ul></div></li><li id='wp-admin-bar-my-account-notifications' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/members/chuchu/notifications/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Notifications</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-notifications-default' class="ab-submenu"><li id='wp-admin-bar-my-account-notifications-unread'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/notifications/unread/'>Unread</a></li><li id='wp-admin-bar-my-account-notifications-read'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/notifications/read/'>Read</a></li></ul></div></li><li id='wp-admin-bar-my-account-settings' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/members/chuchu/settings/'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Settings</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-my-account-settings-default' class="ab-submenu"><li id='wp-admin-bar-my-account-settings-general'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/settings/general/'>General</a></li><li id='wp-admin-bar-my-account-settings-notifications'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/settings/notifications/'>Email</a></li><li id='wp-admin-bar-my-account-settings-data'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/settings/data/'>Export Data</a></li><li id='wp-admin-bar-my-account-settings-profile'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/members/chuchu/settings/profile/'>Profile</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-bp-notifications' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=bp-admin-notifications'><span id="ab-pending-notifications" class="pending-count alert admin-type">!</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-bp-notifications-default' class="ab-submenu"><li id='wp-admin-bar-notification-bp-admin-notifications'><a class='ab-item' href='https://programmerdistination.lovestoblog.com/wp-admin/admin.php?page=bp-admin-notifications'>You have 1 new important admin notification.</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://programmerdistination.lovestoblog.com/wp-login.php?action=logout&#038;_wpnonce=c95bcdb0ec">Log Out</a>
+					</div>
+
+		<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">
+		Skip to content	</a>
+
+
+<header class="header-default">
+    <!-- .navbar .navbar-center .navbar-right .has-search-field .full-width -->
+    <nav class="navbar navbar-right has-search-field">
+        <div class="navbar-brand">
+                        <a href="https://programmerdistination.lovestoblog.com/" rel="home">
+				Programmer Destination            </a>
+                </div>
+        <!-- .has-search-field must use with .navbar-right -->
+        <div class="search-field">
+            <form method="get" action="https://programmerdistination.lovestoblog.com/">
+                <input type="search" name="s" value="" placeholder="Search..." />
+            </form>
+        </div>
+                    <button class="navbar-toggler">
+                <div class="toggle-icon"><span></span></div>
+            </button>
+                <div class="menu-main-menu-container"><ul id="menu-main-menu" class="navbar-nav"><li class="nav-close"><button class="btn-nav-close"><span class="close-btn">+</span></button></li><li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-133"><a href="https://programmerdistination.lovestoblog.com/" onClick="return true">Home</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://programmerdistination.lovestoblog.com/dashboard/" onClick="return true">Account</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="https://programmerdistination.lovestoblog.com/courses" onClick="return true">courses list</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-139"><a href="#" onClick="return true">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://programmerdistination.lovestoblog.com/contact-us/" onClick="return true">Contact Us</a></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://programmerdistination.lovestoblog.com/group-communications/" onClick="return true">Group communications</a></li>
+	<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://programmerdistination.lovestoblog.com/instructor/" onClick="return true">Instructor</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-136"><a href="https://programmerdistination.lovestoblog.com/instructor-registration/" aria-current="page" onClick="return true">Instructor Registration</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="https://programmerdistination.lovestoblog.com/student-registration/" onClick="return true">Student Registration</a></li>
+	<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://programmerdistination.lovestoblog.com/registration/" onClick="return true">Admin Registration</a></li>
+</ul>
+</li>
+</ul></div>        <div class="navbar-utils">
+                                                    <div class="tutor-header-profile-menu-items">
+                    		<div class="tutor-header-profile-photo">
+			<div class="tutor-avatar"><div class="tutor-ratio tutor-ratio-1x1"><span class="tutor-avatar-text">A</span></div></div>		</div><!-- .tutor-header-profile-photo -->
+		<div class="tutor-header-profile-content">
+			<div class="tutor-header-profile-content-text">Hello</div>
+			<div class="tutor-header-profile-submenu">
+				<div class="tutor-header-profile-name">Amal</div>
+				<div class="tutor-header-submenu-icon tutor-icon-icon-light-down-line tutor-font-size-20 tutor-text-400">
+				</div>
+			</div>
+		</div>
+		<div class="tutor-header-submenu">
+												<div class="tutor-submenu-login-section-instructor">
+						<div class="tutor-submenu-login-avatar">
+							<img src="https://programmerdistination.lovestoblog.com/wp-content/themes/tutorstarter/assets/dist/images/instructor-submenu-icon.svg" alt="profile avatar">
+						</div>
+						<div class="tutor-submenu-login-content">
+							<div class="tutor-submenu-login-profile" style="margin-top: 10px;">Create a<br />New Course</div>
+							<p class="tutor-mt-10 tutor-font-size-14" style="line-height: 1.5em; font-size:14px; margin-top:10px;">Get started with topics,<br />lessons and more</p>
+						</div>
+						<div class="tutor-submenu-login-btn">
+							<a id="tutor-starter-create-course" class="tutor-submenu-login" href="https://programmerdistination.lovestoblog.com/wp-admin/post-new.php?post_type=courses"><span class="dashicons dashicons-arrow-right-alt2" style="font-weight: bold;"></span></a>
+						</div>
+					</div>
+										<div class="tutor-submenu-links">
+				<ul>
+					<li><a href='https://programmerdistination.lovestoblog.com/dashboard/'>Dashboard </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/my-profile'>My Profile </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/enrolled-courses'>Enrolled  Courses </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/wishlist'>Wishlist </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/reviews'>Reviews </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/my-quiz-attempts'>My Quiz Attempts </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/purchase_history'>Order History </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/question-answer'>Question &amp; Answer </a></li>				</ul>
+			</div>
+			<div class="tutor-submenu-links">
+				<ul>
+					<li><a href='https://programmerdistination.lovestoblog.com/dashboard/my-courses'>My Courses </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/announcements'>Announcements </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/withdraw'>Withdrawals </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/quiz-attempts'>Quiz Attempts </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/settings'>Settings </a></li><li><a href='https://programmerdistination.lovestoblog.com/dashboard/logout'>Logout </a></li>				</ul>
+			</div>
+		</div>
+
+	                </div><!-- .tutor-header-profile-menu -->
+                                </div>
+    </nav>
+</header><div id="content" class="site-content">
+
+<div class="container">
+	<div class="row align-stretch">
+		<div class="col-xl-12 col-lg-12 col-sm-12">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+
+				
+<article id="post-15"class="post-15 page type-page status-publish hentry">
+			<header class="entry-header">
+		<h1 class="entry-title">Instructor Registration</h1>		</header><!-- .entry-header -->
+		<div class="entry-content">
+		<div class="tutor-container">
+		<div class="tutor-instructor-application-process tutor-pt-48 tutor-pb-48">
+			<div class="tutor-app-process-alert">
+				<div style="border:1px solid var(--tutor-color-primary);" class="tutor-primary tutor-py-12 tutor-px-20 tutor-radius-6">
+					<div class="tutor-alert-text tutor-d-flex tutor-align-center">
+					<span class="tutor-icon-circle-info tutor-fs-4 tutor-color-primary tutor-mr-12"></span>
+					<span>
+					Your application has been accepted. Further necessary details have been sent to your registered email account.					</span>
+					</div>
+				</div>
+			</div>
+			<div class="tutor-app-process-image tutor-m-auto tutor-pt-32 tutor-pb-44 tutor-d-flex tutor-justify-center tutor-align-center">
+				<span class="tutor-app-process-img">
+					<img
+					src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/images/instructor-thankyou.png"
+					alt="Instructor Application Received"
+					/>
+				</span>
+			</div>
+			<div class="tutor-instructor-application-body">
+				<div class="tutor-ins-app-title tutor-m-auto tutor-text-center">
+					<span class="tutor-app-process-title tutor-fs-3 tutor-fw-medium tutor-color-black">
+					Congratulations! You are now registered as an instructor.					</span>
+				</div>
+				<div class="tutor-ins-app-subtitle tutor-m-auto tutor-text-center tutor-pt-24 tutor-pb-48">
+					<span class="tutor-app-process-subtitle tutor-fs-6 tutor-color-secondary">
+					Start building your first course today and let your eLearning journey begin.					</span>
+				</div>
+				<div class="tutor-instructor-apply-button tutor-text-center">
+					<a style="text-decoration:none;" class="tutor-bg-primary tutor-color-white tutor-py-16 tutor-px-32 tutor-radius-6" href="https://programmerdistination.lovestoblog.com/dashboard/">
+						Go to Dashboard					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div><!-- .col- -->
+		</div><!-- .row -->
+</div><!-- .container -->
+
+
+</div><!-- #content -->
+
+<section class="footer-widgets">
+	<div class="container">
+		<div class="row justify-between align-top">
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
+																</div><!-- left widget container -->
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 ml-0 pl-0">
+				<div class="row align-top">
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+											</div>
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+											</div>
+					<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+											</div>
+				</div>
+			</div><!-- right widget container-->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</section><!-- .footer-widgets --><footer id="colophon" class="site-footer container-fluid pt-2 pb-2" role="contentinfo">
+	<div class="container">
+		<div class="row align-middle justify-between footer-bottom-container">
+			<div class="site-info">
+									<span id="footer-socialmedia">
+											</span>
+							</div><!-- .site-info -->
+						<div class="copyright-container">
+				<span class="copyright">&copy; All rights reserved.</span>
+			</div><!-- .footer-menu-->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+		<script>
+			function copy_to_clipBoard(btn) {
+				var copyText = btn.previousSibling;
+				copyText.select();
+				document.execCommand("copy");
+			}
+		</script>
+		<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/admin-bar.min.js?ver=6.4.1" id="admin-bar-js"></script>
+<script type="text/javascript" id="bp-nouveau-js-extra">
+/* <![CDATA[ */
+var BP_Nouveau = {"ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","confirm":"Are you sure?","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","object_nav_parent":"#buddypress","objects":{"0":"activity","1":"members","4":"xprofile","7":"settings","8":"notifications"},"nonces":{"activity":"6800063758","members":"688e167451","xprofile":"c3318afe86","settings":"8a014c4b30","notifications":"d9841c7f36"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=11.4.0" id="bp-nouveau-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/comment-reply.min.js?ver=6.4.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/programmerdistination.lovestoblog.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="tutor-script-js-extra">
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/programmerdistination.lovestoblog.com","site_title":"Programmer Destination","base_path":"\/","tutor_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/","tutor_pro_url":null,"nonce_key":"_tutor_nonce","_tutor_nonce":"ab483b508b","loading_icon_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.svg","enable_lesson_classic_editor":"1","tutor_frontend_dashboard_url":"https:\/\/programmerdistination.lovestoblog.com\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"1","addons_data":[{"name":"Course Bundle","description":"Group multiple courses to sell together.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/course-bundle\/thumbnail.svg"},{"name":"Social Login","description":"Let users register & login through social network like Facebook, Google, etc.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/social-login\/thumbnail.svg"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Google Meet Integration","description":"Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-meet\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Enrollment","description":"Take advanced control on enrollment. Enroll the student manually.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Weglot","description":"Translate & manage multilingual courses for global reach with full edit control.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-weglot\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"}],"current_user":{"data":{"ID":"1","user_login":"chuchu","user_pass":"$P$Bx3Xz0YOZkzyHuovKVK1M6W2lI34yl.","user_nicename":"chuchu","user_email":"nubasweet1418@gmail.com","user_url":"https:\/\/programmerdistination.lovestoblog.com","user_registered":"2023-11-14 08:05:27","user_activation_key":"","user_status":"0","display_name":"Amal"},"ID":1,"caps":{"administrator":true,"tutor_instructor":true},"cap_key":"wp7e_capabilities","roles":["administrator","tutor_instructor"],"allcaps":{"switch_themes":true,"edit_themes":true,"activate_plugins":true,"edit_plugins":true,"edit_users":true,"edit_files":true,"manage_options":true,"moderate_comments":true,"manage_categories":true,"manage_links":true,"upload_files":true,"import":true,"unfiltered_html":true,"edit_posts":true,"edit_others_posts":true,"edit_published_posts":true,"publish_posts":true,"edit_pages":true,"read":true,"level_10":true,"level_9":true,"level_8":true,"level_7":true,"level_6":true,"level_5":true,"level_4":true,"level_3":true,"level_2":true,"level_1":true,"level_0":true,"edit_others_pages":true,"edit_published_pages":true,"publish_pages":true,"delete_pages":true,"delete_others_pages":true,"delete_published_pages":true,"delete_posts":true,"delete_others_posts":true,"delete_published_posts":true,"delete_private_posts":true,"edit_private_posts":true,"read_private_posts":true,"delete_private_pages":true,"edit_private_pages":true,"read_private_pages":true,"delete_users":true,"create_users":true,"unfiltered_upload":true,"edit_dashboard":true,"update_plugins":true,"delete_plugins":true,"install_plugins":true,"update_themes":true,"install_themes":true,"update_core":true,"list_users":true,"remove_users":true,"promote_users":true,"edit_theme_options":true,"delete_themes":true,"export":true,"manage_tutor":true,"manage_tutor_instructor":true,"edit_tutor_course":true,"read_tutor_course":true,"delete_tutor_course":true,"delete_tutor_courses":true,"edit_tutor_courses":true,"edit_others_tutor_courses":true,"read_private_tutor_courses":true,"edit_tutor_lesson":true,"read_tutor_lesson":true,"delete_tutor_lesson":true,"delete_tutor_lessons":true,"edit_tutor_lessons":true,"edit_others_tutor_lessons":true,"read_private_tutor_lessons":true,"publish_tutor_lessons":true,"edit_tutor_quiz":true,"read_tutor_quiz":true,"delete_tutor_quiz":true,"delete_tutor_quizzes":true,"edit_tutor_quizzes":true,"edit_others_tutor_quizzes":true,"read_private_tutor_quizzes":true,"publish_tutor_quizzes":true,"edit_tutor_question":true,"read_tutor_question":true,"delete_tutor_question":true,"delete_tutor_questions":true,"edit_tutor_questions":true,"edit_others_tutor_questions":true,"publish_tutor_questions":true,"read_private_tutor_questions":true,"publish_tutor_courses":true,"manage_woocommerce":true,"view_woocommerce_reports":true,"edit_product":true,"read_product":true,"delete_product":true,"edit_products":true,"edit_others_products":true,"publish_products":true,"read_private_products":true,"delete_products":true,"delete_private_products":true,"delete_published_products":true,"delete_others_products":true,"edit_private_products":true,"edit_published_products":true,"manage_product_terms":true,"edit_product_terms":true,"delete_product_terms":true,"assign_product_terms":true,"edit_shop_order":true,"read_shop_order":true,"delete_shop_order":true,"edit_shop_orders":true,"edit_others_shop_orders":true,"publish_shop_orders":true,"read_private_shop_orders":true,"delete_shop_orders":true,"delete_private_shop_orders":true,"delete_published_shop_orders":true,"delete_others_shop_orders":true,"edit_private_shop_orders":true,"edit_published_shop_orders":true,"manage_shop_order_terms":true,"edit_shop_order_terms":true,"delete_shop_order_terms":true,"assign_shop_order_terms":true,"edit_shop_coupon":true,"read_shop_coupon":true,"delete_shop_coupon":true,"edit_shop_coupons":true,"edit_others_shop_coupons":true,"publish_shop_coupons":true,"read_private_shop_coupons":true,"delete_shop_coupons":true,"delete_private_shop_coupons":true,"delete_published_shop_coupons":true,"delete_others_shop_coupons":true,"edit_private_shop_coupons":true,"edit_published_shop_coupons":true,"manage_shop_coupon_terms":true,"edit_shop_coupon_terms":true,"delete_shop_coupon_terms":true,"assign_shop_coupon_terms":true,"bp_moderate":true,"view_all_adminify_activity_logs":true,"manage_user_registration":true,"edit_user_registration":true,"read_user_registration":true,"delete_user_registration":true,"edit_user_registrations":true,"edit_others_user_registrations":true,"publish_user_registrations":true,"read_private_user_registrations":true,"delete_user_registrations":true,"delete_private_user_registrations":true,"delete_published_user_registrations":true,"delete_others_user_registrations":true,"edit_private_user_registrations":true,"edit_published_user_registrations":true,"manage_user_registration_terms":true,"edit_user_registration_terms":true,"delete_user_registration_terms":true,"assign_user_registration_terms":true,"administrator":true,"tutor_instructor":true},"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0","current_page":"","quiz_answer_display_time":"2000","is_ssl":"1","course_list_page_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=tutor","course_post_type":"courses"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/js/tutor.min.js?ver=2.4.0" id="tutor-script-js"></script>
+<script type="text/javascript" id="quicktags-js-extra">
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/quicktags.min.js?ver=6.4.1" id="quicktags-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2" id="jquery-touch-punch-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/packages/SocialShare/SocialShare.min.js?ver=2.4.0" id="tutor-social-share-js"></script>
+<script type="text/javascript" id="tutor-frontend-js-extra">
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/programmerdistination.lovestoblog.com","site_title":"Programmer Destination","base_path":"\/","tutor_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/","tutor_pro_url":null,"nonce_key":"_tutor_nonce","_tutor_nonce":"ab483b508b","loading_icon_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.svg","enable_lesson_classic_editor":"1","tutor_frontend_dashboard_url":"https:\/\/programmerdistination.lovestoblog.com\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"1","addons_data":[{"name":"Course Bundle","description":"Group multiple courses to sell together.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/course-bundle\/thumbnail.svg"},{"name":"Social Login","description":"Let users register & login through social network like Facebook, Google, etc.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/social-login\/thumbnail.svg"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Google Meet Integration","description":"Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-meet\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Enrollment","description":"Take advanced control on enrollment. Enroll the student manually.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Weglot","description":"Translate & manage multilingual courses for global reach with full edit control.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-weglot\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"}],"current_user":{"data":{"ID":"1","user_login":"chuchu","user_pass":"$P$Bx3Xz0YOZkzyHuovKVK1M6W2lI34yl.","user_nicename":"chuchu","user_email":"nubasweet1418@gmail.com","user_url":"https:\/\/programmerdistination.lovestoblog.com","user_registered":"2023-11-14 08:05:27","user_activation_key":"","user_status":"0","display_name":"Amal"},"ID":1,"caps":{"administrator":true,"tutor_instructor":true},"cap_key":"wp7e_capabilities","roles":["administrator","tutor_instructor"],"allcaps":{"switch_themes":true,"edit_themes":true,"activate_plugins":true,"edit_plugins":true,"edit_users":true,"edit_files":true,"manage_options":true,"moderate_comments":true,"manage_categories":true,"manage_links":true,"upload_files":true,"import":true,"unfiltered_html":true,"edit_posts":true,"edit_others_posts":true,"edit_published_posts":true,"publish_posts":true,"edit_pages":true,"read":true,"level_10":true,"level_9":true,"level_8":true,"level_7":true,"level_6":true,"level_5":true,"level_4":true,"level_3":true,"level_2":true,"level_1":true,"level_0":true,"edit_others_pages":true,"edit_published_pages":true,"publish_pages":true,"delete_pages":true,"delete_others_pages":true,"delete_published_pages":true,"delete_posts":true,"delete_others_posts":true,"delete_published_posts":true,"delete_private_posts":true,"edit_private_posts":true,"read_private_posts":true,"delete_private_pages":true,"edit_private_pages":true,"read_private_pages":true,"delete_users":true,"create_users":true,"unfiltered_upload":true,"edit_dashboard":true,"update_plugins":true,"delete_plugins":true,"install_plugins":true,"update_themes":true,"install_themes":true,"update_core":true,"list_users":true,"remove_users":true,"promote_users":true,"edit_theme_options":true,"delete_themes":true,"export":true,"manage_tutor":true,"manage_tutor_instructor":true,"edit_tutor_course":true,"read_tutor_course":true,"delete_tutor_course":true,"delete_tutor_courses":true,"edit_tutor_courses":true,"edit_others_tutor_courses":true,"read_private_tutor_courses":true,"edit_tutor_lesson":true,"read_tutor_lesson":true,"delete_tutor_lesson":true,"delete_tutor_lessons":true,"edit_tutor_lessons":true,"edit_others_tutor_lessons":true,"read_private_tutor_lessons":true,"publish_tutor_lessons":true,"edit_tutor_quiz":true,"read_tutor_quiz":true,"delete_tutor_quiz":true,"delete_tutor_quizzes":true,"edit_tutor_quizzes":true,"edit_others_tutor_quizzes":true,"read_private_tutor_quizzes":true,"publish_tutor_quizzes":true,"edit_tutor_question":true,"read_tutor_question":true,"delete_tutor_question":true,"delete_tutor_questions":true,"edit_tutor_questions":true,"edit_others_tutor_questions":true,"publish_tutor_questions":true,"read_private_tutor_questions":true,"publish_tutor_courses":true,"manage_woocommerce":true,"view_woocommerce_reports":true,"edit_product":true,"read_product":true,"delete_product":true,"edit_products":true,"edit_others_products":true,"publish_products":true,"read_private_products":true,"delete_products":true,"delete_private_products":true,"delete_published_products":true,"delete_others_products":true,"edit_private_products":true,"edit_published_products":true,"manage_product_terms":true,"edit_product_terms":true,"delete_product_terms":true,"assign_product_terms":true,"edit_shop_order":true,"read_shop_order":true,"delete_shop_order":true,"edit_shop_orders":true,"edit_others_shop_orders":true,"publish_shop_orders":true,"read_private_shop_orders":true,"delete_shop_orders":true,"delete_private_shop_orders":true,"delete_published_shop_orders":true,"delete_others_shop_orders":true,"edit_private_shop_orders":true,"edit_published_shop_orders":true,"manage_shop_order_terms":true,"edit_shop_order_terms":true,"delete_shop_order_terms":true,"assign_shop_order_terms":true,"edit_shop_coupon":true,"read_shop_coupon":true,"delete_shop_coupon":true,"edit_shop_coupons":true,"edit_others_shop_coupons":true,"publish_shop_coupons":true,"read_private_shop_coupons":true,"delete_shop_coupons":true,"delete_private_shop_coupons":true,"delete_published_shop_coupons":true,"delete_others_shop_coupons":true,"edit_private_shop_coupons":true,"edit_published_shop_coupons":true,"manage_shop_coupon_terms":true,"edit_shop_coupon_terms":true,"delete_shop_coupon_terms":true,"assign_shop_coupon_terms":true,"bp_moderate":true,"view_all_adminify_activity_logs":true,"manage_user_registration":true,"edit_user_registration":true,"read_user_registration":true,"delete_user_registration":true,"edit_user_registrations":true,"edit_others_user_registrations":true,"publish_user_registrations":true,"read_private_user_registrations":true,"delete_user_registrations":true,"delete_private_user_registrations":true,"delete_published_user_registrations":true,"delete_others_user_registrations":true,"edit_private_user_registrations":true,"edit_published_user_registrations":true,"manage_user_registration_terms":true,"edit_user_registration_terms":true,"delete_user_registration_terms":true,"assign_user_registration_terms":true,"administrator":true,"tutor_instructor":true},"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0","current_page":"","quiz_answer_display_time":"2000","is_ssl":"1","course_list_page_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=tutor","course_post_type":"courses"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/tutor/assets/js/tutor-front.min.js?ver=2.4.0" id="tutor-frontend-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" id="main-js-extra">
+/* <![CDATA[ */
+var tutorstarter_vars = {"site_url":"https:\/\/programmerdistination.lovestoblog.com","ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","authRedirectUrl":"https:\/\/programmerdistination.lovestoblog.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/themes/tutorstarter/assets/dist/js/app.min.js?ver=1.1.10" id="main-js"></script>
+<script type="text/javascript" src="//instant.page/5.1.0?ver=1.1.10" id="instant-page-js"></script>
+<script type="text/javascript" id="mycred-video-points-js-extra">
+/* <![CDATA[ */
+var myCRED_Video = {"ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/instructor-registration\/","token":"43a118d6d2","default_logic":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/assets/js/video.js?ver=2.6.2.1" id="mycred-video-points-js"></script>
+<script type="text/javascript" id="mycred-notifications-js-extra">
+/* <![CDATA[ */
+var myCRED_Notice = {"ajaxurl":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","duration":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/mycred/addons/notifications/assets/js/notify.js?ver=1.1.2.2" id="mycred-notifications-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.18.1" id="elementor-common-modules-js"></script>
+<script type="text/javascript" id="elementor-web-cli-js-before">
+/* <![CDATA[ */
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/programmerdistination.lovestoblog.com\/wp-json\/","assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"f48f18fbba","version":"3.18.1"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/programmerdistination.lovestoblog.com\/wp-json\/","assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"f48f18fbba","version":"3.18.1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.18.1" id="elementor-web-cli-js"></script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="wp-api-request-js-extra">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/programmerdistination.lovestoblog.com\/wp-json\/","nonce":"f48f18fbba","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-includes/js/api-request.min.js?ver=6.4.1" id="wp-api-request-js"></script>
+<script type="text/javascript" id="elementor-dev-tools-js-before">
+/* <![CDATA[ */
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.18.1"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.18.1"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.18.1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.18.1" id="elementor-dev-tools-js"></script>
+<script type="text/javascript" id="elementor-common-js-before">
+/* <![CDATA[ */
+var elementorCommonConfig = {"version":"3.18.1","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"block_editor_assets_optimize":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/programmerdistination.lovestoblog.com\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"library_connect":{"is_connected":false,"subscription_plans":{"free":{"label":null,"promotion_url":null,"color":null},"essential":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"essential-oct2023":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"advanced":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"expert":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"agency":{"label":"Agency","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}},"base_access_level":0,"base_access_tier":"free","current_access_level":0,"current_access_tier":"free"},"ajax":{"url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin-ajax.php","nonce":"8b86352e73"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-app&ver=3.18.1#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Library","icon":"kit-parts","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-app&ver=3.18.1#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=b1bdc1701b","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=b1bdc1701b","keywords":["Add New Section","post","page","template","new","create"]},"container":{"title":"Add New Container","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=b1bdc1701b","keywords":["Add New Container","post","page","template","new","create"]},"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=b1bdc1701b","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=b1bdc1701b","keywords":["Add New Page","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=b1bdc1701b#library","keywords":["Add New Landing Page","post","page","template","new","create"]},"courses":{"title":"Add New Course","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=courses&_wpnonce=b1bdc1701b","keywords":["Add New Course","post","page","template","new","create"]},"lesson":{"title":"Add New Lesson","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=lesson&_wpnonce=b1bdc1701b","keywords":["Add New Lesson","post","page","template","new","create"]},"tutor_quiz":{"title":"Add New Quiz","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=tutor_quiz&_wpnonce=b1bdc1701b","keywords":["Add New Quiz","post","page","template","new","create"]},"tutor_assignments":{"title":"Add New Assignment","icon":"plus-circle-o","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=tutor_assignments&_wpnonce=b1bdc1701b","keywords":["Add New Assignment","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/programmerdistination.lovestoblog.com","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"apps":{"title":"Apps","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]},"element-manager":{"title":"Element Manager","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-element-manager","keywords":["settings","elements","widgets","manager"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.18.1" id="elementor-common-js"></script>
+<script type="text/javascript" id="elementor-app-loader-js-before">
+/* <![CDATA[ */
+var elementorAppConfig = {"menu_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-app&ver=3.18.1#site-editor\/promotion","assets_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/","login_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-login.php","base_url":"https:\/\/programmerdistination.lovestoblog.com\/wp-admin\/admin.php?page=elementor-app&ver=3.18.1","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://programmerdistination.lovestoblog.com/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.18.1" id="elementor-app-loader-js"></script>
+	<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+</body>
+</html>
